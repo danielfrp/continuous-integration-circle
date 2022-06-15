@@ -3,8 +3,7 @@ description: An awesome docs project
 permalink: pretty
 search_enabled: true
 color_scheme: dark
-include:
-  - static
+
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-remote-theme
